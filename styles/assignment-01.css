@@ -35,6 +35,10 @@
   font-size: 24px;
   width: 390px;
 }
+.heading-3{
+   font-size: 24px;
+   width: 490px;
+}
 
 .discrib-2{
   font-size: 16px;
@@ -57,18 +61,31 @@
   font-weight: 600;
   
 }
-.clr{
-    background-color: #FFFFFF;
-}
+
 .title-contain{
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding-top: 50px;
+  /* padding-top: 50px; */
   background-color: #FFFFFF;
   margin-left: 40px;
   margin-right: 40px;
+  margin-top: 30px;
   border-radius: 16px;
+}
+.title-contain-2{
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    /* padding-top: 50px; */
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #FFFFFF;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 16px; 
+    margin-top: 30px;
+    gap: 10px;
 }
 .caption{
     font-size: 48px;
