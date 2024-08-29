@@ -95,15 +95,42 @@
 }
 .inspiration-descrip{
   text-align: center;
-  padding: 0px 50px 0px 50px;
+  padding: 0px 100px 0px 100px;
   margin-bottom: 50px;
 }
-.video-deco{
-  align-items: center;
-  position: ;
-  border-radius: 16px;
-}
 
+.current-target{
+  margin: 100px 75px 100px 75px;
+}
+.Target-title{
+  text-align: center;
+  margin-top: 100px;
+  font-weight: 800px;
+  padding: 0px 150px 0px 150px;
+}
+.text-link-clr{
+  color: #0D1321;
+}
+.html-bg{
+  background-color: rgba(255, 76, 30, 0.05);
+  border-radius: 16px;
+  width: 340px;
+}
+.CSS-bg{
+  background-color: rgba(0, 76, 232, 0.05);
+  border-radius: 16px;
+  width: 340px;
+}
+.JavaScript-bg{
+  background-color: rgba(255, 223, 0, 0.05);
+  border-radius: 16px;
+  width: 340px;
+}
+.H-C-J-div{
+  display: flex;
+  margin: 50px 100px 50px 100px;
+  gap: 10px;
+}
 .caption{
     font-size: 48px;
     font-weight: 800px;
@@ -124,8 +151,12 @@
   .btn{
     font-size: 20px;
     margin-top: 32px;
-    color: #FFFFFF;
+    
     padding: 21px 24px;
     background-color: #0D1321;
     border-radius: 8px;
+  }
+  .btn-link{
+    text-decoration-line: none;
+    color: #FFFFFF;
   }
