@@ -29,6 +29,8 @@
   background-color: rgba(19, 13, 33, 0.02);
   margin: 79px 140px 38px 140px;
   width: 1140px auto;
+  padding-bottom: 50px;
+  border-radius: 16px;
 }
 
 .heading-2{
@@ -87,6 +89,21 @@
     margin-top: 30px;
     gap: 10px;
 }
+
+.Inspiration-title{
+    text-align: center;
+}
+.inspiration-descrip{
+  text-align: center;
+  padding: 0px 50px 0px 50px;
+  margin-bottom: 50px;
+}
+.video-deco{
+  align-items: center;
+  position: ;
+  border-radius: 16px;
+}
+
 .caption{
     font-size: 48px;
     font-weight: 800px;
